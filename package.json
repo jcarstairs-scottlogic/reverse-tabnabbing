@@ -1,0 +1,14 @@
+{
+  "name": "reverse-tabnab",
+  "version": "1.0.0",
+  "description": "Demonstrates how the reverse tabnabbing attack works",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
